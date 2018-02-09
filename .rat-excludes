@@ -1,0 +1,21 @@
+# files copied from third parties or created by tools
+gradlew
+gradlew.bat
+Godeps
+i18n_resources.go
+gradle-wrapper.properties
+
+# JSON data file doesn't support annotation
+.*json
+
+# Test data 
+
+# others
+.gitignore
+.rat-excludes
+.gitattributes
+.jshintrc
+.scalafmt.conf
+.credentials.json.enc
+
+
